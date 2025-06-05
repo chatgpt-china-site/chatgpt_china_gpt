@@ -3,11 +3,11 @@
 > **更新：2025/05/25** 
 
 本文提供全面的 **[ChatGPT 中文版](https://chat.lanjing.pro) 使用指南**，精选国内优质镜像网站，支持 **GPT-4o、GPT-4、GPT-3.5、deepseek-r1、GPT-o3** 等多款模型，无需翻墙即可访问。    
-无论您是想提升工作效率还是满足个人需求，本文将帮助您快速上手 **[ChatGPT 中文版](https://chat.yixiaai.com)**，并提供官网注册教程和常见问题解答。
+无论您是想提升工作效率还是满足个人需求，本文将帮助您快速上手 **[ChatGPT 中文版](https://xsimplechat.com)**，并提供官网注册教程和常见问题解答。
 
 **ChatGPT 中文版推荐站点：**  
 - [chat.lanjing.pro](https://chat.lanjing.pro)  
-- [chat.yixiaai.com](https://chat.yixiaai.com)
+- [chat.yixiaai.com](https://xsimplechat.com)
 
 ---
 
@@ -43,8 +43,8 @@
 | **镜像站地址**       | **支持版本**                  | **免费额度** | **注册方式**       | **稳定性** | **功能亮点**                              |
 |----------------------|------------------------------|--------------|-------------------|------------|------------------------------------------|
 | [chat.lanjing.pro](https://chat.lanjing.pro)   | GPT-4o, GPT-4, GPT-3.5, deepseek-r1, GPT-o3 | 有           | 国内邮箱支持      | ⭐⭐⭐⭐⭐    | 运营两年，支持 GPT-4o，内置 MJ 绘图，适合开发者和普通用户 |
-| [chat.yixiaai.com](https://chat.yixiaai.com)     | GPT-4o, GPT-4, GPT-3.5, Claude, deepseek-r1, GPT-o3 | 有           | 手机扫码使用      | ⭐⭐⭐⭐⭐    | 支持 GPT-o1，一比一还原官网，支持实时语音和视频对话 |
-| [chat.lify.vip](https://www.yixiaai.com) | GPT-4, GPT-3.5      | 有           | 手机扫码使用      | ⭐⭐⭐⭐     | 支持开发者 API，服务稳定                |
+| [chat.yixiaai.com](https://xsimplechat.com)     | GPT-4o, GPT-4, GPT-3.5, Claude, deepseek-r1, GPT-o3 | 有           | 手机扫码使用      | ⭐⭐⭐⭐⭐    | 支持 GPT-o1，一比一还原官网，支持实时语音和视频对话 |
+| [chat.lify.vip](https://chat.yixiaai.com) | GPT-4, GPT-3.5      | 有           | 手机扫码使用      | ⭐⭐⭐⭐     | 支持开发者 API，服务稳定                |
 | [yixiaai.cn](https://yixiaai.cn)   | GPT-3.5             | 有           | 国内直接使用      | ⭐⭐⭐      | 各种AI工具，想要的这儿全都有              |
 
 ---
